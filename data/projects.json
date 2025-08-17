@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Markdown Previewer",
+    "description": "MarkdownをリアルタイムでHTMLに変換するエディタです。",
+    "imageUrl": "/images/project-markdown.png",
+    "tags": ["React", "TypeScript", "Marked"],
+    "demoUrl": "https://example.com/markdown-previewer",
+    "githubUrl": "https://github.com/your-username/markdown-previewer"
+  },
+  {
+    "title": "Blog with CMS",
+    "description": "ヘッドレスCMSと連携したブログサイトです。",
+    "imageUrl": "/images/project-blog.png",
+    "tags": ["Next.js", "TypeScript", "microCMS"],
+    "demoUrl": "https://example.com/blog-cms",
+    "githubUrl": "https://github.com/your-username/blog-cms"
+  }
+]
