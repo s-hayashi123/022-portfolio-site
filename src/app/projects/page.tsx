@@ -1,5 +1,11 @@
 import { ProjectCard } from "../components/ProgectCard";
 import projects from "@/data/projects.json";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "制作物一覧 | My Portfolio",
+  description: "これまでに製作したプロジェクトの一覧です",
+};
 
 export default function ProjectsPage() {
   return (
