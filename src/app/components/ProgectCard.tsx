@@ -44,7 +44,7 @@ export const ProjectCard = ({
           <Link
             href={demoUrl}
             target="_blank"
-            className="text-blue-500 hover:underline"
+            className="text-blue-500 hover:underline mr-4"
           >
             Demo
           </Link>

@@ -14,5 +14,29 @@
     "tags": ["Next.js", "TypeScript", "microCMS"],
     "demoUrl": "https://example.com/blog-cms",
     "githubUrl": "https://github.com/your-username/blog-cms"
+  },
+  {
+    "title": "Todo App",
+    "description": "シンプルなToDoリスト管理アプリです。",
+    "imageUrl": "/images/project-markdown.png",
+    "tags": ["React", "TypeScript", "Tailwind CSS"],
+    "demoUrl": "https://example.com/todo-app",
+    "githubUrl": "https://github.com/your-username/todo-app"
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": "天気情報を表示するダッシュボードアプリです。",
+    "imageUrl": "/images/project-markdown.png",
+    "tags": ["Next.js", "TypeScript", "OpenWeatherMap API"],
+    "demoUrl": "https://example.com/weather-dashboard",
+    "githubUrl": "https://github.com/your-username/weather-dashboard"
+  },
+  {
+    "title": "Portfolio Landing",
+    "description": "ポートフォリオ用のランディングページです。",
+    "imageUrl": "/images/project-markdown.png",
+    "tags": ["React", "TypeScript", "Tailwind CSS"],
+    "demoUrl": "https://example.com/portfolio-landing",
+    "githubUrl": "https://github.com/your-username/portfolio-landing"
   }
 ]
